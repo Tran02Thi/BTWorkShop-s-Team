@@ -1,0 +1,26 @@
+.title-head{    
+    height: 160px;
+    text-align: center;
+    display: flex;
+    background-image: linear-gradient( to bottom, rgb(200, 190, 190) , #ffffff );;
+}
+.title-head p{
+    margin: auto;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.trans-web{    
+    height: 160px;
+    text-align: center;
+    display: flex;
+    background-image: linear-gradient( to bottom, rgb(244, 244, 244) , #ffffff );;
+}
+.trans-web p{
+    margin: auto;
+    font-size: 40px;
+    font-weight: bold;
+}
+#name-{
+    padding-top: 250px;
+}
